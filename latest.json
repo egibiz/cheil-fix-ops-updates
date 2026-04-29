@@ -4,8 +4,8 @@
     "pub_date":  "2026-04-28T23:46:29Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUU9xcllDSkorRjJxd0hBQmYrUDVrS2hMMzUrempxNW51Z2lmL2NBdldtQ045ODZEL2hrTXlXOEhjd1ZwUnppVitmS1FhQU5yaHFCc092VmdDVHJvOUhMYWt0Uk5GUXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDIwNzgwCWZpbGU6c21hcnQtcWMta2lvc2tfMS4wLjhfeDY0LXNldHVwLmV4ZQpSTFNHOEpoREZjaEpOcmpGZmNLeDVYM3VRRVQzbDhzOW42eXg3TXUrdHgvVDVzWEJia2Y2UmlzSzlkUktuazlrM2FqVEx5YkpUenNtRlVwQkN2enFBUT09Cg==",
-                                             "url":  "https://github.com/egibiz/cheil-fix-ops/releases/download/v1.0.8/smart-qc-kiosk_1.0.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOStuU3NRV255YU1HTlJXc2daMEhlNGczM2d0VlV2ZnBCdTRxdkdmUzk4WTI3OFVYSUFmK2hzZng0WXJhY1BDOU8zd3YrakgzVGlCb3h1TVA5dHhzODhGNlJrUWlHVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDE5OTgyCWZpbGU6c21hcnQtcWMta2lvc2tfMS4wLjhfeDY0LXNldHVwLmV4ZQp1bHBxblJ2ZkpSRzVXQmw4LzNXb3hlSkhLcS9ObHhMdkdDVEhyN0tHbVhpTC9qZC9rUi9wV1kxR25WUHBSRnFTTzNPWWxXbVNJU1NtT2IwQTFabVFDZz09Cg==",
+                                             "url":  "https://github.com/egibiz/cheil-fix-ops-updates/releases/download/v1.0.8/smart-qc-kiosk_1.0.8_x64-setup.exe"
                                          }
                   }
 }
