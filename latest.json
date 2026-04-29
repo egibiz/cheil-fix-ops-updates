@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.9",
-    "notes":  "Smart QC Kiosk v1.0.9",
-    "pub_date":  "2026-04-28T23:58:09Z",
+    "version":  "1.0.8",
+    "notes":  "Smart QC Kiosk v1.0.8",
+    "pub_date":  "2026-04-28T23:46:29Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOStuU3NRV255YUhWekpIMUhqeGVHSWZBT0FQZ0tvR2dKSmtFNFphL2IvKy9jN1krWTV6TUJPdExmQnhQeG84OEx5NDNHSWNldmJWYk9QbFQxaVZXbFRGQXhhNU8wbkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDIwNjgyCWZpbGU6c21hcnQtcWMta2lvc2tfMS4wLjlfeDY0X2VuLVVTLm1zaQpHczVEVkZmdlAxNks3TXFyQkpPZUVINU1Hc0Z5SWhMTmlXcEY2dlJ2bHg4T3Y4aXlKNE5XMmdHMEJYM3FybkM4MkZrVUhyZjR6b2hJUTFra3BYVXhCQT09Cg==",
-                                             "url":  "https://github.com/egibiz/cheil-fix-ops/releases/download/v1.0.9/smart-qc-kiosk_1.0.9_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUU9xcllDSkorRjJxd0hBQmYrUDVrS2hMMzUrempxNW51Z2lmL2NBdldtQ045ODZEL2hrTXlXOEhjd1ZwUnppVitmS1FhQU5yaHFCc092VmdDVHJvOUhMYWt0Uk5GUXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDIwNzgwCWZpbGU6c21hcnQtcWMta2lvc2tfMS4wLjhfeDY0LXNldHVwLmV4ZQpSTFNHOEpoREZjaEpOcmpGZmNLeDVYM3VRRVQzbDhzOW42eXg3TXUrdHgvVDVzWEJia2Y2UmlzSzlkUktuazlrM2FqVEx5YkpUenNtRlVwQkN2enFBUT09Cg==",
+                                             "url":  "https://github.com/egibiz/cheil-fix-ops/releases/download/v1.0.8/smart-qc-kiosk_1.0.8_x64-setup.exe"
                                          }
                   }
 }
